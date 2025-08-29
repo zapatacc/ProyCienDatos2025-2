@@ -33,6 +33,7 @@ Este módulo cubre los conceptos básicos de Python y las herramientas esenciale
 
 - **Introducción a Python**: Conceptos básicos del lenguaje y primeros pasos.
 - **¿Qué es Git? - Git & GitHub**: Fundamentos de control de versiones y uso de GitHub para la colaboración en proyectos.
+- **CLI (Shell, Bash, Git-Bash)**
 - **Ambientes Virtuales (Virtual Environment)**: Creación y manejo de entornos virtuales en Python.
 - **Sistemas de recomendación personalizados/NLP (LLMs)**: Introducción a los modelos de lenguaje y sistemas de recomendación personalizados.
 - **Introducción a la Interfaz de Programación de Aplicaciones (API)**: Conceptos básicos sobre APIs y su uso en proyectos de desarrollo.
