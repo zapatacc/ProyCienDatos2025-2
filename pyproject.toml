@@ -8,5 +8,6 @@ dependencies = [
     "jupyter>=1.1.1",
     "mlflow>=3.5.0",
     "pandas>=2.3.2",
+    "prefect>=3.4.25",
     "requests>=2.32.5",
 ]
