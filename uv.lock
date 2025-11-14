@@ -2621,7 +2621,7 @@ requires-dist = [
     { name = "mlflow", specifier = ">=3.5.0" },
     { name = "pandas", specifier = ">=2.3.2" },
     { name = "prefect", specifier = ">=3.4.25" },
-    { name = "python-dotenv" },
+    { name = "python-dotenv", specifier = ">=1.1.1" },
     { name = "requests", specifier = ">=2.32.5" },
 ]
 
